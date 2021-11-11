@@ -21,15 +21,16 @@ Here is some of the stuff I enjoy doing:
 
 Video Games:
 <p align="left">
-  <a href="https://github.com/avi-shatz/CarCRush-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=CarCRush-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CarCRush"></a>
+  <a href="https://github.com/avi-shatz/CarCrush-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=CarCrush-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CarCRush"></a>
   <a href="https://github.com/avi-shatz/Modern-Digger"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=Modern-Digger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CarCRush"></a>
   <a href="https://github.com/avi-shatz/Where-The-Lights-Go"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=Where-The-Lights-Go&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Where-The-Lights-Go"></a>
-  <a href="https://github.com/avi-shatz/Simon-Game-site"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=Simon-Game-site&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Where-The-Lights-Go"></a>
+  <a href="https://github.com/avi-shatz/Simon-Game-site"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=Simon-Game-site&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Simon-Game-site"></a>
 </p>
 
 Web projects:
 <p align="left">
-  <a href="https://github.com/avi-shatz/ChatUp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=ChatUp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CarCRush"></a>
+  <a href="https://github.com/avi-shatz/ChatUp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=ChatUp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ChatUp"></a>
+  <a href="https://github.com/avi-shatz/Whether-Forecast-Site"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=avi-shatz&repo=Whether-Forecast-Site&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Whether-Forecast-Site"></a>
 </p>
 
 Apps:
