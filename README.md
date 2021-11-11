@@ -3,7 +3,7 @@
 I'm a passionate software engineer who loves to explore new tech.
 
 Here is some of the stuff I enjoy doing:
-* Creating video games in c++
+* Creating video games in C++
 * Solving DS and Algorithms questions
 * Teaching students math and programming
 * Reading about design patterns
@@ -14,7 +14,7 @@ Here is some of the stuff I enjoy doing:
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
-<a href="https://www.linkedin.com/in/avi-shatz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avi-shatz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi-shatz" height="30" width="40" /></a>
 
 
 ## Main projects
