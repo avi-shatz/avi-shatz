@@ -7,8 +7,8 @@ Here is some of the stuff I enjoy doing:
 * Solving DS and Algorithms questions
 * Teaching students math and programming
 * Reading about design patterns
+* Lisening to `soft skills` podcasts
 * Learning new technologies and programming languages
-* Lisening to soft skills podcasts
 * Starting new projects 
 * Putting stuff in production
 
